@@ -5,13 +5,10 @@ Bem-vindo ao meu portfólio de projetos em desenvolvimento de sistemas!
 
 ### 📅 [AgendaWeb](https://github.com/TrajanoDeveloper/AgendaWeb)
 > Sistema de agendamento com ASP.NET Core + SQL Server.
-> ![AgendaWeb](https://github.com/seu-usuario/AgendaWeb/blob/main/AgendaWeb.Presentation/wwwroot/img/tela_de_login.png?raw=true)
-
 ---
 
 ### 🐸 [Jogo Frogger](https://github.com/TrajanoDeveloper/Frogger_Delphi)
 > jogo clássico Frogger desenvolvido em Delphi.
-
 
 ---
 
