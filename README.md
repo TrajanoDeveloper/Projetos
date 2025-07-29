@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio de projetos em desenvolvimento de sistemas!
 > jogo clássico Frogger desenvolvido em Delphi.
 
 ---
-### 📊 [Portfolio Tracker(Ratreador de Ativos financeiros)(Em desenvolvimento)](https://github.com/TrajanoDeveloper/PortfolioTracker-Rastreador-de-ativos)
+### 📊 [Portfolio Tracker(Ratreador de Ativos financeiros) - (Em desenvolvimento)](https://github.com/TrajanoDeveloper/PortfolioTracker-Rastreador-de-ativos)
 > Sistema para acompanhamento de carteira de investimentos
 
 ---
