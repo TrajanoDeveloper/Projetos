@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio de projetos em desenvolvimento de sistemas!
 
 ---
 ### 📊 [Portfolio Tracker(Rastreador de Ativos financeiros) - (Em desenvolvimento)](https://github.com/TrajanoDeveloper/PortfolioTracker-Rastreador-de-ativos)
-> Sistema para acompanhamento de carteira de investimentos
+> Sistema para acompanhamento de carteira de investimentos com ASP.NET Core 9 e Angular.
 
 ---
 
