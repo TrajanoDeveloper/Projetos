@@ -13,8 +13,11 @@ Bem-vindo ao meu portfólio de projetos em desenvolvimento de sistemas!
 ---
 ### 📊 [Portfolio Tracker(Rastreador de Ativos financeiros) - (Em desenvolvimento)](https://github.com/TrajanoDeveloper/PortfolioTracker-Rastreador-de-ativos)
 > Sistema para acompanhamento de carteira de investimentos com ASP.NET Core 9 e Angular.
-
 ---
+
+### 🖥 [Sistema de Cadastro e Controle de Clientes](https://github.com/TrajanoDeveloper/Cadastro-de-Clientes)
+> Cadatro de Clientes desenvolvido em Delphi
+
 
 ## 📫 Contato
 - alexandre.trajano@gmail.com
