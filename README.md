@@ -16,7 +16,11 @@ Bem-vindo ao meu portfólio de projetos em desenvolvimento de sistemas!
 ---
 
 ### 🖥 [Sistema de Cadastro e Controle de Clientes](https://github.com/TrajanoDeveloper/Cadastro-de-Clientes)
-> Cadatro de Clientes desenvolvido em Delphi
+> Sistema Cadatro de Clientes desenvolvido em Delphi
+---
+
+### 🖥 [Sistema de Empresa e Funcionários Versão 1 ](https://github.com/TrajanoDeveloper/ApiEmpresas)
+> Sistema de cadastros de Empresas e Funcinários em C# .Net e Angular
 
 
 ## 📫 Contato
